@@ -38,31 +38,31 @@ const projects = [
     title: "Unqueue",
     description: "Portfolios Optimization with DL and Reinforcement Learning",
     image: "/assets/stonks.png",
-    href: "https://unqueue.shop/",
+    href: "https://github.com/PranshUwU",
   },
   {
     title: "InfiniteVPS",
     description: "Federated Learning for Enhanced Security in IIoT Devices",
     image: "/assets/IIoTPaper.png",
-    href: "#",
+    href: "https://github.com/PranshUwU",
   },
   {
     title: "TranslateBot",
     description: "Resume Evaluator Using Meta's Llama3",
     image: "/assets/ResumeEval.png",
-    href: "https://translatebot.app/",
+    href: "https://github.com/PranshUwU",
   },
   {
     title: "Wrona",
     description: "Conversational Document Assistant for MINeD Hackathon",
     image: "/assets/MINeDchatbot.png",
-    href: "https://www.wrona.com/",
+    href: "https://github.com/PranshUwU",
   },
   {
     title: "This website",
     description: "My personal website",
     image: "/assets/PortfolioWebsite.png",
-    href: "https://github.com/wendoj/portfolio",
+    href: "https://github.com/PranshUwU",
   },
 ];
 
