@@ -82,7 +82,7 @@ export default function Container(props: ContainerProps) {
   const { children, ...customMeta } = props;
   const router = useRouter();
   const meta = {
-    title: "Pranshu Desai",
+    title: "Pranshu Chourasia",
     description: `Full-stack website developer and TypeScript enthusiast.`,
     image: "/assets/logo.webp",
     type: "website",
@@ -120,19 +120,19 @@ export default function Container(props: ContainerProps) {
         <meta content={meta.description} name="description" />
         <meta
           property="og:url"
-          content={`https://www.Pranshu Desaij.codes${router.asPath}`}
+          content={`https://www.PranshuChourasia.codes${router.asPath}`}
         />
         <link
           rel="canonical"
-          href={`https://www.Pranshu Desaij.codes${router.asPath}`}
+          href={`https://www.PranshuChourasia.codes${router.asPath}`}
         />
         <meta property="og:type" content={meta.type} />
-        <meta property="og:site_name" content="Pranshu DesaiJ" />
+        <meta property="og:site_name" content="Pranshu Chourasia" />
         <meta property="og:description" content={meta.description} />
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="Pranshu DesaiJ" />
+        <meta name="twitter:site" content="Pranshu Chourasia" />
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
@@ -163,7 +163,7 @@ export default function Container(props: ContainerProps) {
           </button>
         </div>
         <Link href="/">
-          <span className="text-lg font-semibold">Pranshu Desai</span>
+          <span className="text-lg font-semibold">Pranshu Chourasia</span>
         </Link>
 
         {/* Desktop menu */}
@@ -220,7 +220,7 @@ export default function Container(props: ContainerProps) {
                 {/* Footer */}
                 <div className="flex min-h-fit w-full flex-col space-y-8 px-[22px] py-10">
                   <span className="text-sm text-muted-foreground">
-                    © {new Date().getFullYear()} Pranshu Desai. All rights reserved.
+                    © {new Date().getFullYear()} Pranshu Chourasia. All rights reserved.
                   </span>
                 </div>
               </div>

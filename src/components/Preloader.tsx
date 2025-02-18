@@ -24,14 +24,14 @@ const slideUp = {
 };
 
 const words = [
+  "नमस्ते",
   "Hello",
-  "Bonjour",
-  "Ciao",
-  "Olà",
-  "やあ",
-  "Hallå",
-  "Guten tag",
-  "Hallo",
+  "வணக்கம்",
+  "નમસ્તે",
+  "ನಮಸ್ಕಾರ",
+  "नमस्कार",
+  "హలో",
+  "ਸਤ ਸ੍ਰੀ ਅਕਾਲ",
 ];
 
 export default function Preloader() {
